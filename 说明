@@ -1,0 +1,5 @@
+1， 默认端口8000
+2， 有file和stream两种模式,file mode默认使用test_example下的.bag文件
+3， 请求模式有 a.r 获取抓取位姿
+              b.v 可视化当前rgbd帧图像
+    输入end退出测试
